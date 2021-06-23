@@ -10,6 +10,6 @@
 - Troll Others :D
 - Posting SourceCode at 5 Stars
 # Fake Attacking Pic
-![img](https://cdn.discordapp.com/attachments/857362471093665823/857363474430951484/unknown.png)
+![img](https://cdn.discordapp.com/attachments/857363694916206642/857373531717238814/unknown.png)
 # Logo of CockNET
 ![img](https://cdn.discordapp.com/attachments/857363694916206642/857365845918351390/logo_200x200.png)

@@ -5,6 +5,8 @@
 - User: VAZE
 - Pass: CockNET
 # Info
-- 1. Its Fake (Its not Attacking Realy)
-- 2. Troll Others :D
-- 3. Posting SourceCode at 5 Stars
+- Its Fake (Its not Attacking Realy)
+- Troll Others :D
+- Posting SourceCode at 5 Stars
+# Fake Attacking Pic
+![img](https://cdn.discordapp.com/attachments/857362471093665823/857363474430951484/unknown.png)

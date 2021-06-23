@@ -4,3 +4,7 @@
 # Login
 - User: VAZE
 - Pass: CockNET
+# Info
+- 1. Its Fake (Its not Attacking Realy)
+- 2. Troll Others :D
+- 3. Posting SourceCode at 5 Stars

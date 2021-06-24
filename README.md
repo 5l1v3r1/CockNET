@@ -8,7 +8,7 @@
 # Info
 - Its Fake (Its not Attacking Realy)
 - Troll Others :D
-- Posting SourceCode at 5 Stars
+- Posting SourceCode on my Discord (https://discord.gg/dHXznmyymu)
 # Fake Attacking Pic
 ![img](https://cdn.discordapp.com/attachments/857363694916206642/857373531717238814/unknown.png)
 # Logo of CockNET

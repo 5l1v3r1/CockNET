@@ -8,6 +8,7 @@
 # Info
 - Its Fake (Its not Attacking its only Saying but not doing it)
 - Troll Others :D
+- AND LAUGH LMAO
 # Fake Attacking Pic
 ![img](https://media.discordapp.net/attachments/855408359028031498/857597634146730024/Unbenannt.PNG)
 # Logo of CockNET

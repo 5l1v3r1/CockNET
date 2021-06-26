@@ -1,7 +1,5 @@
 # CockNET
 - Hello i made a Fake Botnet in Python its only the Exe version
-- Posting SourceCode on my Discord (https://discord.gg/dHXznmyymu)
-- Join the Support Server :D! https://discord.gg/dHXznmyymu
 # Login
 - User: VAZE
 - Pass: CockNET

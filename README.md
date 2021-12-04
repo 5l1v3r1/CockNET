@@ -1,6 +1,6 @@
 # CockNET
 # Download
-- https://discord.gg/hPU36ZMNvt
+- https://teamvestige.tk/
 # Fake Troll Net | Made for you with <3
 - Acces Key: VAZE
 - Only Compatible with Windows 10
